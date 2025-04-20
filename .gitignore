@@ -1,0 +1,67 @@
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 环境配置文件
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 日志文件
+*.log
+*.out
+*.err
+
+# 数据库文件
+*.sqlite3
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.orig
+*.save
+
+# 单元测试覆盖率报告
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+.coverage.*
+
+# 分析工具输出
+*.mypy_cache/
+*.pytest_cache/
+*.hypothesis/
+
+# 打包/分发
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# C扩展
+*.so
+
+# Jupyter Notebook 输出
+*.ipynb_convert/
+
+# 本地配置文件
+*.local
+
+.conda
