@@ -12,6 +12,7 @@ Welcome to the _llm days_ .This project is used as an labs for my practice of ll
   - miniconda： https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
   - `conda install jupyter`
 5. `必需`安装 Jupyter 支持：`dotnet interactive jupyter install`
+6. 将`ipykernel`安装到 Python 环境中：`conda install ipykernel --update-deps --force-reinstall`
 
 ## 101
 
